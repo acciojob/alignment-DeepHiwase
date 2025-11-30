@@ -9,8 +9,12 @@ table, tr, td {
 	padding: 1px
 }
 
+#t12 {
+	text-align: center;
+}
+
 #t21 {
-	column-span: 6;
+	column-span: span 6;
 }
 
 .green {
